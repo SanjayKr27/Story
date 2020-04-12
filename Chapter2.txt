@@ -1,1 +1,2 @@
 This is chapter 2 text file.
+Chapter 2 text has been changed.
